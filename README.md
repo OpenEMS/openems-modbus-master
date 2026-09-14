@@ -1,7 +1,6 @@
 # OpenEMS Modbus/TCP-Api Example
 
-This is a simple application that reads data from OpenEMS Modbus/TCP slave. For more information refer to [Modbus/TCP-Api](
-https://github.com/OpenEMS/openems/blob/master/doc/modbustcp-api.md)
+This is a simple application that reads data from OpenEMS Modbus/TCP slave. For more information refer to [API/Modbus](https://github.com/OpenEMS/openems/tree/main/io.openems.edge.controller.api.modbus)
 
 ## System
 
